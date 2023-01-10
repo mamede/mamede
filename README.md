@@ -2,13 +2,20 @@
 
 ### <div align="center">I'm Felipe Mamede, a front-end developer 👨‍💻</div>  
 <br/>
+<div style="display: flex; align-items: center; justify-content: space-around;">
+<div>
 
 - <img src="https://gamersclub.com.br/images/medalhas/9.png" width="20" height="20" style="margin-right: 8px"/> <span>I’m currently working at [Gamers Club](https://gamersclub.com.br/) </span> <a href="https://vagas.gamersclub.com.br/" style="margin-left: 8px"> <img alt="Joins Us" src="https://img.shields.io/badge/-Join%20Us-brightgreen"/> </a>
 
 - 💻 Working at Entry Software Engineer.  
 - 🚀 Learning to always reach the next level  
 <br/>
+</div>
 
+<div>
+  <img src="/image/computer-vector.png" width="360"/>
+</div>
+</div>
 ## Github Stats  
 <div>
   <a href="https://github.com/mamede" > </a>
