@@ -25,10 +25,11 @@
 </div>
 
 ## My Skill Set  
-<table align="center" style="width: 100%;"><tr><td valign="top" width="33%">
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+
+<div align="left" style="max-width: 200px; text-align: center;">
 
 ### Frontend  
-<div align="center">
 <img style="margin: 10px" alt="Js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
 <img style="margin: 10px" alt="Ts" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
 <img style="margin: 10px" alt="React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
@@ -37,21 +38,22 @@
 <img style="margin: 10px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" height="50" />  
 <img style="margin: 10px" alt="NextJS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
 </div>
-</td><td valign="top" width="33%">
+
+<div align="center" style="max-width: 200px; text-align: center;">
 
 ### Backend  
-<div align="center"> 
 <img style="margin: 10px" alt="NodeJS" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
 <img style="margin: 10px" alt="NestJS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" />
 </div>
-</td><td valign="top" width="33%">
+
+<div align="right" style="max-width: 200px; text-align: center;"> 
 
 ### Games  
-<div align="center">  
 <img style="margin: 10px" alt="Unity" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" />
 <img style="margin: 10px" alt="Csharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
 </div>
-</td></tr></table>
+
+</div>
 
 ## Connect with me  
 <div align="center">
