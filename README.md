@@ -4,7 +4,7 @@
 <br/>
 
 <a target="_blank" align="center">
-  <img align="right" src="/image/computer-vector.png" width="220"/>
+  <img align="right" src="/image/computer-vector.png" width="290"/>
 </a>
 
 <br/>
