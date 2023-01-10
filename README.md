@@ -25,34 +25,18 @@
 </div>
 
 ## My Skill Set  
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-
-<div align="left" style="max-width: 200px; text-align: center;">
-
-### Frontend  
-<img style="margin: 10px" alt="Js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-<img style="margin: 10px" alt="Ts" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-<img style="margin: 10px" alt="React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-<img style="margin: 10px" alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-<img style="margin: 10px" alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-<img style="margin: 10px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" height="50" />  
-<img style="margin: 10px" alt="NextJS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
-</div>
-
-<div align="center" style="max-width: 200px; text-align: center;">
-
-### Backend  
-<img style="margin: 10px" alt="NodeJS" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
-<img style="margin: 10px" alt="NestJS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" />
-</div>
-
-<div align="right" style="max-width: 200px; text-align: center;"> 
-
-### Games  
-<img style="margin: 10px" alt="Unity" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" />
-<img style="margin: 10px" alt="Csharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-</div>
-
+<div align="center">
+<img style="margin: 10px" alt="Js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+<img style="margin: 10px" alt="Ts" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+<img style="margin: 10px" alt="React" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+<img style="margin: 10px" alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+<img style="margin: 10px" alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+<img style="margin: 10px" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" />
+<img style="margin: 10px" alt="NextJS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" />
+<img style="margin: 10px" alt="NodeJS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
+<img style="margin: 10px" alt="NestJS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" />
+<img style="margin: 10px" alt="Unity" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" />
+<img style="margin: 10px" alt="Csharp" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
 </div>
 
 ## Connect with me  
