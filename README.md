@@ -17,11 +17,15 @@
 <br/>
 
 
-## Github Stats  
+## Stats  
 <div>
   <a href="https://github.com/mamede" > </a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mamede&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamede&layout=compact&langs_count=7&theme=vue-darkdarcula" />
+</div>
+<div>
+
+[![wakatime](https://wakatime.com/badge/user/4f2d4bf8-c551-42b9-878c-174d8863902e.svg)](https://wakatime.com/@4f2d4bf8-c551-42b9-878c-174d8863902e)
 </div>
 
 ## My Skill Set  
