@@ -10,7 +10,8 @@
 <br/>
 <br/>
 
-- 💻 Entry Software Engineer.  
+- 💻 Software Engineer Front end.
+- 📚 Studying React, React Native and Swift.
 - 🚀 Learning to always reach the next level  
 <br/>
 
