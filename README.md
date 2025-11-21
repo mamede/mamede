@@ -17,7 +17,7 @@
 
 ## 🧠 Sobre Mim
 
-Sou desenvolvedor front-end com mentalidade de produto.  
+Sou desenvolvedor front-end.  
 Minha jornada na programação começou em **2007**, nos fóruns e códigos escondidos do **Neopets** — onde descobri que tecnologia é uma linguagem poderosa para criar coisas que não existiam antes.
 
 Formei-me em **Jogos Digitais**, o que me deu uma base sólida de programação e criatividade técnica.  
